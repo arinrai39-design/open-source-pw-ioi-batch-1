@@ -18,6 +18,12 @@ A full-stack program tracking application built as part of the Open Source PW IO
 - `apps/web-admin` — Admin web application
 - `apps/api-student` — Student API
 - `packages/` — Shared packages and services
+- ## Project Links
+
+- **Original/Upstream Repository:** https://github.com/akashmeruva-cd/open-source-pw-ioi-batch-1
+- **My Repository/Fork:** https://github.com/arinrai39-design/open-source-pw-ioi-batch-1
+- **Student API:** https://api-student-two.vercel.app/api/health
+- **Student Web App:** https://web-student-green.vercel.app/dashboard
 
 ## Getting Started
 
